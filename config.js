@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: 'MTExNjU4NzQxOTUxMzQwOTU5Ng.Gp8mpO.JiKCDlc5sKdujNvG813HnYoYYlB6qczlRIbxx4',
+        token: '',
         playing: 'by Watashi  ❤️',
         global: true,
         guild: 'XXX'
